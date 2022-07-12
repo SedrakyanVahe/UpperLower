@@ -1,14 +1,6 @@
-//#include "upperLower.hpp"
 void upperLower();
 
 int main(){
-    upperLower();
-        return 0;
+  upperLower();
+  return 0;
 }
-
-
-
-
-
-
-
